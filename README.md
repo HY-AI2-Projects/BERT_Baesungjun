@@ -1,6 +1,6 @@
 # BERT_Baesungjun
 
-Bert for sequence Classification 모델을 활용하여 네이버 영화리뷰 데이터를 분석하였으며, 이를 통해 이진감서분류 모델을 만들었습니다.
+Bert for sequence Classification 모델을 활용하여 네이버 영화리뷰 데이터를 분석하였으며, 이를 통해 이진감성분류 모델을 만들었습니다.
 
 [Ex]
 1 : 연기는 별로지만 재밌다. (긍정)
